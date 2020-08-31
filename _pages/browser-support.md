@@ -42,4 +42,4 @@ We currently do not offer support for internet explrer, but are reworking all ou
 ## Validation
 Currently we validate our web components by visual inspection using [Browser Stack](https://www.browserstack.com/) which provides testing on 2000+ real devices and browsers, not emulators or simulators.
 
-Since, our validation methods are done by humna review there is more than likely a chance we missed something. If you are currently using a browser that has support and you find bugs please create issues [here](https://github.com/denali-design/denali-css/issues).
+Since, our validation is through human review there is a more than likely chance we missed something. If you are using a currently supported browser and find bugs please create an issue [here](https://github.com/denali-design/denali-css/issues).
